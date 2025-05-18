@@ -129,3 +129,4 @@ unlinked_spec.ds
 *.ipr
 *.iws
 .DS_Store
+.env
